@@ -1,0 +1,9 @@
+Register user 
+Login user
+who am i
+add new prodcut
+update a product
+get all products
+get single product
+delete a product
+
